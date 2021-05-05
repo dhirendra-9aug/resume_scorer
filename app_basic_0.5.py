@@ -17,7 +17,7 @@ app = Flask(__name__)
 def index():
     return render_template("upload.html")
 
-@app.route("/upload", methods=['GET', 'POST'])
+@app.route("/upload", methods=['POST'])
 def upload():
     df=pd.DataFrame()
     for file in request.files.getlist("file"):
