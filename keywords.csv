@@ -1,0 +1,30 @@
+ML Algorithms,tools/languages,libraries,Skills
+Statistics,python,QlikView,Data mining
+Time series forecasting,r, Matplotlib,data analysis
+Linear regression,scala, seaborn,EDA
+logistic regression,c++,D3.js,exploratory data analysis
+decision trees,java, Ggplot,outliers
+random forest,html,NumPy,feature engineering
+xgboost,css,Pandas,kaggle
+arima,octave, scikit-learn ,git
+sarima,matlab,nltk,github
+varmax,nosql,,
+nlp,sql,,
+cnn,mysql,,
+ann,hive,,
+lstm,mongodb,,
+neural network,cassandra,,
+,hbase,,
+,redhshift,,
+,hadoop,,
+,spark,,
+,map reduce,,
+,azure,,
+,aws,,
+,sagemanker,,
+,s3,,
+,pig,,
+,airflow,,
+,lucene,,
+,solr,,
+,pyspark,,
